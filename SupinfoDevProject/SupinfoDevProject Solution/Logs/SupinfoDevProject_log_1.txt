@@ -1,0 +1,632 @@
+2013-02-19 15:31:47 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-19 15:31:47 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-19 15:32:06 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 18787 ms)
+2013-02-19 15:32:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-19 15:32:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-19 15:32:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 6 ms)
+2013-02-19 15:32:07 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 1607 ms)
+2013-02-19 15:32:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-19 15:32:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 211 ms)
+2013-02-19 15:32:08 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 21564 ms)
+2013-02-19 15:32:08 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-19 15:32:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-19 15:32:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-19 15:32:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 232 ms)
+2013-02-19 15:32:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 1893 ms)
+2013-02-19 15:32:10 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-19 15:32:11 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-19 15:32:11 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 25 ms)
+2013-02-19 15:32:11 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 784 ms)
+2013-02-19 15:32:11 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-19 15:32:11 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-19 15:32:11 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-19 15:32:11 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 116 ms)
+2013-02-19 15:32:11 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 2795 ms)
+2013-02-19 16:23:37 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-19 16:23:37 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-19 16:23:40 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2759 ms)
+2013-02-19 16:23:40 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-19 16:23:42 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2062 ms)
+2013-02-19 16:23:42 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 5070 ms)
+2013-02-19 16:23:42 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-19 16:23:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-19 16:23:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-19 16:23:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 842 ms)
+2013-02-19 16:23:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 1033 ms)
+2013-02-19 16:23:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-19 16:23:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 5 ms)
+2013-02-19 16:23:43 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 1587 ms)
+2013-02-21 13:15:36 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-21 13:15:36 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-21 13:15:37 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 1114 ms)
+2013-02-21 13:15:37 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-21 13:15:37 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-21 13:15:37 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 67 ms)
+2013-02-21 13:15:37 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 437 ms)
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 118 ms)
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 2091 ms)
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 23 ms)
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 667 ms)
+2013-02-21 13:15:38 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-21 13:15:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-21 13:15:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 21 ms)
+2013-02-21 13:15:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 251 ms)
+2013-02-21 13:15:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-21 13:15:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-21 13:15:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-21 13:15:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 67 ms)
+2013-02-21 13:15:39 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 986 ms)
+2013-02-21 13:26:02 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-21 13:26:02 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-21 13:26:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2087 ms)
+2013-02-21 13:26:04 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2034 ms)
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4122 ms)
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 423 ms)
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 423 ms)
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-21 13:26:06 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 20 ms)
+2013-02-21 13:26:07 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 853 ms)
+2013-02-21 17:25:00 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-21 17:25:01 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-21 17:25:02 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 1561 ms)
+2013-02-21 17:25:02 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-21 17:25:02 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-21 17:25:02 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 111 ms)
+2013-02-21 17:25:03 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 757 ms)
+2013-02-21 17:25:03 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-21 17:25:03 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 68 ms)
+2013-02-21 17:25:03 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 2711 ms)
+2013-02-21 17:25:03 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-21 17:25:03 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 19 ms)
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 766 ms)
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 20 ms)
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 235 ms)
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 45 ms)
+2013-02-21 17:25:04 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 1047 ms)
+2013-02-21 19:36:28 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-21 19:36:29 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-21 19:36:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2633 ms)
+2013-02-21 19:36:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-21 19:36:33 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2109 ms)
+2013-02-21 19:36:33 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4954 ms)
+2013-02-21 19:36:33 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-21 19:36:33 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-21 19:36:33 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-21 19:36:34 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 570 ms)
+2013-02-21 19:36:34 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 688 ms)
+2013-02-21 19:36:34 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-21 19:36:34 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 44 ms)
+2013-02-21 19:36:35 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 1433 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 151 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 26 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 86 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 23 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 354 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 28 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 82 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 26 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 185 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-21 19:41:56 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-21 19:41:57 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 33 ms)
+2013-02-21 19:41:57 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 302 ms)
+2013-02-21 20:00:52 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-21 20:00:52 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-21 20:00:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2058 ms)
+2013-02-21 20:00:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-21 20:00:56 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2013-02-21 20:00:56 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4111 ms)
+2013-02-21 20:00:56 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-21 20:00:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-21 20:00:56 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-21 20:00:57 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 402 ms)
+2013-02-21 20:00:57 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 404 ms)
+2013-02-21 20:00:57 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-21 20:00:57 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-02-21 20:00:57 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 815 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 37 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 17 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 27 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 110 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 23 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 54 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 27 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 58 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 18 ms)
+2013-02-21 20:01:08 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 131 ms)
+2013-02-21 20:54:39 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-21 20:54:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-21 20:54:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2452 ms)
+2013-02-21 20:54:42 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-21 20:54:44 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2090 ms)
+2013-02-21 20:54:44 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4596 ms)
+2013-02-21 20:54:44 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-21 20:54:44 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-21 20:54:44 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-21 20:54:45 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 549 ms)
+2013-02-21 20:54:45 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 607 ms)
+2013-02-21 20:54:45 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-21 20:54:45 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 17 ms)
+2013-02-21 20:54:45 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 1028 ms)
+2013-02-22 09:39:19 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-22 09:39:19 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-22 09:39:19 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 489 ms)
+2013-02-22 09:39:19 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-22 09:39:19 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-22 09:39:19 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 55 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 293 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 57 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 1129 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 24 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 478 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 19 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 159 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-22 09:39:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-22 09:39:21 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 69 ms)
+2013-02-22 09:39:21 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 707 ms)
+2013-02-22 09:44:42 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-22 09:44:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-22 09:44:44 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2050 ms)
+2013-02-22 09:44:44 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-22 09:44:46 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2013-02-22 09:44:46 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4100 ms)
+2013-02-22 09:44:46 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-22 09:44:46 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-22 09:44:46 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-22 09:44:47 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 323 ms)
+2013-02-22 09:44:47 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 323 ms)
+2013-02-22 09:44:47 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-22 09:44:47 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 20 ms)
+2013-02-22 09:44:47 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 813 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 41 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 6 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 16 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 116 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 22 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 51 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 38 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 68 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 10 ms)
+2013-02-22 09:52:32 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 131 ms)
+2013-02-22 10:51:16 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-22 10:51:16 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-22 10:51:18 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2180 ms)
+2013-02-22 10:51:18 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2079 ms)
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4263 ms)
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 402 ms)
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 402 ms)
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-22 10:51:20 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 54 ms)
+2013-02-22 10:51:21 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 870 ms)
+2013-02-22 10:51:27 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-22 10:51:27 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-22 10:51:27 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 79 ms)
+2013-02-22 10:51:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-22 10:51:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 12 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 82 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 25 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 246 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 20 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 70 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 27 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 112 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 33 ms)
+2013-02-22 10:51:28 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 216 ms)
+2013-02-22 10:55:50 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-22 10:55:50 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 402 ms)
+2013-02-22 10:55:50 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-22 10:55:50 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 10 ms)
+2013-02-22 11:37:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-22 11:37:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 403 ms)
+2013-02-22 11:37:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-22 11:37:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 12 ms)
+2013-02-22 13:07:19 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-22 13:07:19 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-22 13:07:23 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 3582 ms)
+2013-02-22 13:07:23 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-22 13:07:25 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2056 ms)
+2013-02-22 13:07:25 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 5648 ms)
+2013-02-22 13:07:25 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-22 13:07:25 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-22 13:07:25 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-22 13:07:25 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 401 ms)
+2013-02-22 13:07:25 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 466 ms)
+2013-02-22 13:07:25 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-22 13:07:26 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 60 ms)
+2013-02-22 13:07:26 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 987 ms)
+2013-02-22 13:14:30 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-02-22 13:14:30 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-02-22 13:14:30 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 32 ms)
+2013-02-22 13:14:30 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-02-22 13:14:30 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-22 13:14:30 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 8 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 94 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 26 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 243 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 28 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 68 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 20 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 83 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 30 ms)
+2013-02-22 13:14:31 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 183 ms)
+2013-02-22 13:56:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-22 13:56:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 402 ms)
+2013-02-22 13:56:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-22 13:56:20 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 16 ms)
+2013-02-22 14:01:17 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-22 14:01:17 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 407 ms)
+2013-02-22 14:01:17 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-02-22 14:01:17 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 40 ms)
+2013-02-22 14:26:58 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-02-22 14:26:58 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-02-22 14:27:00 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2082 ms)
+2013-02-22 14:27:00 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2034 ms)
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4116 ms)
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 402 ms)
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 404 ms)
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-02-22 14:27:02 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-02-22 14:27:03 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 811 ms)
+2013-03-04 10:44:24 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-03-04 10:44:24 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-03-04 10:44:25 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 786 ms)
+2013-03-04 10:44:25 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-03-04 10:44:25 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-04 10:44:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 2741 ms)
+2013-03-04 10:44:30 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 5215 ms)
+2013-03-04 10:44:37 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-03-04 10:44:38 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 1795 ms)
+2013-03-04 10:44:38 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 14400 ms)
+2013-03-04 10:44:38 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-03-04 10:44:38 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 46 ms)
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 662 ms)
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 152 ms)
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 41 ms)
+2013-03-04 10:44:39 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 857 ms)
+2013-03-04 10:46:26 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-03-04 10:46:26 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-03-04 10:46:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2059 ms)
+2013-03-04 10:46:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2068 ms)
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4128 ms)
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 418 ms)
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 418 ms)
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 20 ms)
+2013-03-04 10:46:31 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 846 ms)
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 42 ms)
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 6 ms)
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 20 ms)
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 107 ms)
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-03-04 10:46:35 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 23 ms)
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 52 ms)
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 30 ms)
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 58 ms)
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-03-04 10:46:36 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 122 ms)
+2013-03-04 11:17:29 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-04 11:17:30 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 463 ms)
+2013-03-04 11:17:30 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-04 11:17:30 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 40 ms)
+2013-03-04 11:20:41 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-03-04 11:20:41 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-03-04 11:20:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2061 ms)
+2013-03-04 11:20:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2085 ms)
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4155 ms)
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 306 ms)
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 359 ms)
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-03-04 11:20:45 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 32 ms)
+2013-03-04 11:20:46 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 835 ms)
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 49 ms)
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 6 ms)
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 72 ms)
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 25 ms)
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 301 ms)
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 20 ms)
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 250 ms)
+2013-03-04 11:21:06 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-03-04 11:21:07 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-03-04 11:21:07 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 21 ms)
+2013-03-04 11:21:07 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 286 ms)
+2013-03-04 11:21:07 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-03-04 11:21:07 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-04 11:21:07 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-04 11:21:07 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 25 ms)
+2013-03-04 11:21:07 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 562 ms)
+2013-03-04 11:28:23 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-03-04 11:28:23 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-03-04 11:28:25 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2056 ms)
+2013-03-04 11:28:25 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2050 ms)
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4107 ms)
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 401 ms)
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 402 ms)
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 85 ms)
+2013-03-04 11:28:28 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 790 ms)
+2013-03-04 11:41:42 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-03-04 11:41:42 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-03-04 11:41:42 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 413 ms)
+2013-03-04 11:41:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-03-04 11:41:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-04 11:41:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 82 ms)
+2013-03-04 11:41:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 217 ms)
+2013-03-04 11:41:42 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 36 ms)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 782 ms)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 23 ms)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 274 ms)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 135 ms)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 29 ms)
+2013-03-04 11:41:43 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 439 ms)
+2013-03-04 12:45:28 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-03-04 12:45:28 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-03-04 12:45:32 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 3983 ms)
+2013-03-04 12:45:32 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-03-04 12:45:34 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2206 ms)
+2013-03-04 12:45:34 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 6237 ms)
+2013-03-04 12:45:34 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-03-04 12:45:34 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-03-04 12:45:34 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-04 12:45:38 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 3337 ms)
+2013-03-04 12:45:38 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 3578 ms)
+2013-03-04 12:45:38 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-03-04 12:45:38 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 223 ms)
+2013-03-04 12:45:39 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 4385 ms)
+2013-03-05 12:35:54 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-03-05 12:35:54 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-03-05 12:36:08 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 13888 ms)
+2013-03-05 12:36:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-03-05 12:36:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-05 12:36:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 182 ms)
+2013-03-05 12:36:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 689 ms)
+2013-03-05 12:36:09 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-03-05 12:36:09 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 261 ms)
+2013-03-05 12:36:09 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 15143 ms)
+2013-03-05 12:36:09 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-03-05 12:36:09 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 25 ms)
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 581 ms)
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 224 ms)
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 57 ms)
+2013-03-05 12:36:10 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 863 ms)
+2013-03-05 12:40:37 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-03-05 12:40:37 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-03-05 12:40:39 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2050 ms)
+2013-03-05 12:40:39 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2041 ms)
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4092 ms)
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 431 ms)
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 431 ms)
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-03-05 12:40:41 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 44 ms)
+2013-03-05 12:40:42 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 879 ms)
+2013-03-05 13:19:52 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-03-05 13:19:52 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-03-05 13:19:53 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 1756 ms)
+2013-03-05 13:19:53 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 82 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 257 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 54 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 2254 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 26 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 287 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 33 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 165 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 30 ms)
+2013-03-05 13:19:54 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 484 ms)
+2013-03-05 13:38:03 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-05 13:38:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 432 ms)
+2013-03-05 13:38:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-05 13:38:04 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 11 ms)
+2013-03-05 13:45:08 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-03-05 13:45:08 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-03-05 13:45:10 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2061 ms)
+2013-03-05 13:45:10 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2074 ms)
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4144 ms)
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 403 ms)
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 436 ms)
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 17 ms)
+2013-03-05 13:45:13 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 868 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject] INFO - Opening the solution
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject] INFO - Opening the users and groups directory
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject] INFO - Users and groups directory opened (duration: 47 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the project
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Opening the database
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database opened (duration: 7 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project opened (duration: 48 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Opening the project
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project opened (duration: 24 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject] INFO - Solution opened (duration: 193 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject] INFO - Starting the solution
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the project
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Starting the HTTP server
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - HTTP server started (duration: 34 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project started (duration: 79 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the project
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Starting the HTTP server
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - HTTP server started (duration: 38 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project started (duration: 113 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Executing the bootstrap(s)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Bootstrap(s) executed (duration: 24 ms)
+2013-03-05 13:45:27 [com.wakanda-software.SupinfoDevProject] INFO - Solution started (duration: 217 ms)
+2013-03-05 13:46:42 [com.wakanda-software.SupinfoDevProject] INFO - Stopping the solution
+2013-03-05 13:46:42 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Stopping the project
+2013-03-05 13:46:44 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project stopped (duration: 2050 ms)
+2013-03-05 13:46:44 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Stopping the project
+2013-03-05 13:46:46 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2013-03-05 13:46:46 [com.wakanda-software.SupinfoDevProject] INFO - Solution stopped (duration: 4099 ms)
+2013-03-05 13:46:46 [com.wakanda-software.SupinfoDevProject] INFO - Closing the solution
+2013-03-05 13:46:46 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the project
+2013-03-05 13:46:46 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Closing the database
+2013-03-05 13:46:47 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Database closed (duration: 302 ms)
+2013-03-05 13:46:47 [com.wakanda-software.SupinfoDevProject.SupinfoDevProject] INFO - Project closed (duration: 308 ms)
+2013-03-05 13:46:47 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Closing the project
+2013-03-05 13:46:47 [com.wakanda-software.SupinfoDevProject.ServerAdmin] INFO - Project closed (duration: 5 ms)
+2013-03-05 13:46:47 [com.wakanda-software.SupinfoDevProject] INFO - Solution closed (duration: 750 ms)

@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?><EntityModelCatalog><dbInfo uuid="DEB2380315EE8E47AF7052ECFC4FADBC" collation_locale="fr"/></EntityModelCatalog>
+﻿<?xml version="1.0" encoding="UTF-8"?><EntityModelCatalog>
+
+<dbInfo name="Model" uuid="DEB2380315EE8E47AF7052ECFC4FADBC"/>
+
+<dataClasses name="Farm" className="Farm" collectionName="FarmCollection" scope="public" uuid="44719D1D6EE3A34C8C4D43638F07EEAE" tablePos="2">
+
+	<extraProperties ____objectunic="true" panelColor="#996699">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="">
+
+			<position ____objectunic="true" X="319" Y="24"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="39368260F0D4854DBCDA6DB5377F3CCB" fieldPos="1" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="storage" scope="public" uuid="4E62567D7E95E24E8D960006F11C883D" fieldPos="2" type="string"/>
+
+	<attributes name="playersCollection" kind="relatedEntities" scope="public" type="UsersCollection" reversePath="true" path="Farm"/>
+
+</dataClasses>
+
+<dataClasses name="Players" className="Users" collectionName="UsersCollection" scope="public" uuid="D4F3BB377446764CA9D567B30124EB22" tablePos="1">
+
+	<extraProperties ____objectunic="true" panelColor="#BFBFBF">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="25" Y="20"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="2B73D409A34EFD40ADD4448564F0ED0E" fieldPos="1" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="UserName" kind="storage" scope="public" uuid="BBD3E49F7115E4418CDE7B80637D5E08" fieldPos="5" unique="true" type="string"/>
+
+	<attributes name="nom" kind="storage" scope="public" uuid="82C07C927F0833499CECA3775E4A87BB" fieldPos="2" type="string"/>
+
+	<attributes name="prenom" kind="storage" scope="public" uuid="79665CBADE1EAF448ADF628ECC56B21B" fieldPos="3" type="string"/>
+
+	<attributes name="age" kind="storage" scope="public" uuid="134D823D5382DA4CA0C12D5429D8B3E4" fieldPos="4" type="number"/>
+
+	<attributes name="Farm" kind="relatedEntity" scope="public" type="Farm" uuid="7892F7ACF611ED4CB117DB9D540E526E" fieldPos="6" path="Farm"/>
+
+	<attributes name="PassWord" kind="storage" scope="public" uuid="3E526E2056AACD4A9E81BCFFBEE60CA9" fieldPos="7" type="string"/>
+
+</dataClasses>
+</EntityModelCatalog>
